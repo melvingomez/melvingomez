@@ -4,7 +4,6 @@
     <div>
         I am a web developer with more than 6 years of experience
     </div>
-        ![Banner](https://github.com/melvingomez/melvingomez/assets/24278250/82efeec1-4826-41f9-9a99-c9f71fdc4bd6)
     <div>
         <a target="_blank" rel="noopener noreferrer" href="https://github.com/melvingomez/melvingomez/assets/24278250/82efeec1-4826-41f9-9a99-c9f71fdc4bd6">
                 <img src="https://github.com/melvingomez/melvingomez/assets/24278250/82efeec1-4826-41f9-9a99-c9f71fdc4bd6" alt="">
