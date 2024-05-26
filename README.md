@@ -2,7 +2,9 @@
         Hi I'am Melvin 👋
     </div>
     <div>
-        <img src="https://drive.google.com/file/d/1j9v6DBtSuLSaGWfs-m3xohTW7iMEBvJV/view?usp=sharing" alt="">
+        <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1j9v6DBtSuLSaGWfs-m3xohTW7iMEBvJV">
+        <img src="https://drive.google.com/file/d/1j9v6DBtSuLSaGWfs-m3xohTW7iMEBvJV" alt="">
+        </a>&nbsp;
     </div>
     <div class="markdown-heading" dir="auto">
         <h3 class="heading-element" dir="auto">Languages and Tools</h3>
