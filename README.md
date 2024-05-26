@@ -5,8 +5,8 @@
         I am a web developer with more than 6 years of experience
     </div>
     <div>
-        <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1j9v6DBtSuLSaGWfs-m3xohTW7iMEBvJV">
-        <img src="https://drive.google.com/file/d/1j9v6DBtSuLSaGWfs-m3xohTW7iMEBvJV" alt="">
+        <a target="_blank" rel="noopener noreferrer" href="">
+        ![Banner](https://github.com/melvingomez/melvingomez/assets/24278250/82efeec1-4826-41f9-9a99-c9f71fdc4bd6)
         </a>&nbsp;
     </div>
     <div class="markdown-heading" dir="auto">
@@ -45,7 +45,7 @@
                 <img src="https://github.com/devicons/devicon/raw/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40" style="max-width: 100%;">
             </a>&nbsp;
             <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg">
-                <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Flutter" alt="Flutter" width="40" height="40" style="max-width: 100%;">
+                <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="40" height="40" style="max-width: 100%;">
             </a>&nbsp;
             <a target="_blank" rel="noopener noreferrer" href="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">
                 <img src="https://github.com/devicons/devicon/raw/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40" style="max-width: 100%;">
