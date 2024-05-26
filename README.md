@@ -2,12 +2,12 @@
         Hi I'am Melvin 👋
     </div>
     <div>
-        I am a web developer with more than 6 years of experience
-    </div>
-    <div>
         <a target="_blank" rel="noopener noreferrer" href="https://github.com/melvingomez/melvingomez/assets/24278250/82efeec1-4826-41f9-9a99-c9f71fdc4bd6">
                 <img src="https://github.com/melvingomez/melvingomez/assets/24278250/82efeec1-4826-41f9-9a99-c9f71fdc4bd6" alt="">
         </a>&nbsp;
+    </div>
+    <div class="markdown-heading" dir="auto">
+        <h3 class="heading-element" dir="auto">I am a web developer with more than 6 years of experience</h3>
     </div>
     <div class="markdown-heading" dir="auto">
         <h3 class="heading-element" dir="auto">Languages and Tools</h3>
