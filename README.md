@@ -81,6 +81,7 @@
         <h3 class="heading-element" dir="auto">Languages and Tools</h3>
     </div>
     <p dir="auto"><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://camo.githubusercontent.com/6075a1b26ec0f0f880ebe6b1deec8be41cf9832f68048a993b3a30387d9d9e33/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d446576436172657373266c61796f75743d636f6d70616374267468656d653d6d69646e696768742d707572706c65" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=melvingomez;layout=compact&amp;theme=midnight-purple" style="max-width: 100%;"></a></p>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **melvingomez/melvingomez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
