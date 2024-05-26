@@ -2,9 +2,7 @@
         Hi I'am Melvin 👋
     </div>
     <div>
-        <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1j9v6DBtSuLSaGWfs-m3xohTW7iMEBvJV">
-        <img src="https://drive.google.com/file/d/1j9v6DBtSuLSaGWfs-m3xohTW7iMEBvJV" alt="">
-        </a>&nbsp;
+        I am a web developer with more than 6 years of experience
     </div>
     <div>
         <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/file/d/1j9v6DBtSuLSaGWfs-m3xohTW7iMEBvJV">
@@ -81,7 +79,11 @@
         <h3 class="heading-element" dir="auto">Languages and Tools</h3>
     </div>
     <p dir="auto">
-        <img height="180em" src="https://camo.githubusercontent.com/167a225b00974a7f35532c3accc1d325e6cb03967801b68be14b58a5100de697/68747470733a2f2f6769746875622d726561646d652d73746174732d65696768742d74686574612e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d417269734775696d657261266c61796f75743d636f6d70616374266c616e67735f636f756e743d38267468656d653d616c676f6c6961" data-canonical-src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=melvingomez&amp;layout=compact&amp;langs_count=8&amp;theme=algolia" style="max-width: 100%;">
+
+<a href="https://github.com/melvingomez">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=melvingomez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=melvingomez&layout=compact&langs_count=8&theme=algolia"/>
+</a>
     </p>
 
 <!--
