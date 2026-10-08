@@ -85,12 +85,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=melvingomez&layout=compact&langs_count=8&theme=algolia&count_private=true"/>
 </a>
  <br />
-  <br />
-<a href="https://github.com/melvingomez">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=melvingomez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=melvingomez&layout=compact&langs_count=12&theme=algolia&size_weight=0.5&count_weight=0.5"/>
-</a>
     </p>
 
 <!--
